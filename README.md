@@ -6,7 +6,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Platform Windows" />
-  <img src="https://img.shields.io/badge/Version-v1.0.0-blue?style=for-the-badge" alt="Version" />
+  <img src="https://img.shields.io/badge/Version-v1.1.0-blue?style=for-the-badge" alt="Version" />
   <img src="https://img.shields.io/badge/Status-Active-2EA44F?style=for-the-badge" alt="Status" />
   <img src="https://img.shields.io/badge/Safety-100%25%20Read--Only%20Telemetry-success?style=for-the-badge" alt="Safety" />
 </p>
@@ -18,8 +18,8 @@
 > ⚠️ **Note:** This utility operates strictly in read-only diagnostic mode. It does not modify game files, system registry, or inject into active processes.
 
 <p align="center">
-  <a href="https://github.com/Juggernautcancer/RobRun-Companion/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Download_for_Windows-v1.0.0_Latest_Release-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Download RobRun Companion v1.0.0" height="48" />
+  <a href="https://github.com/Juggernautcancer/RobRun-Companion/releases/download/v1.1.0/RobRun-Companion-v1.1.0-Windows.zip">
+    <img src="https://img.shields.io/badge/Download_for_Windows-v1.1.0_Latest_Release-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Download RobRun Companion v1.1.0" height="48" />
   </a>
 </p>
 
@@ -72,9 +72,9 @@ Track how your PC behaves under real load without heavy overlays slowing down yo
 
 ### 🛠️ How to Get Started
 
-1. Click the green **Download for Windows** button at the top of this page (or visit the [Releases](https://github.com/Juggernautcancer/RobRun-Companion/releases/tag/v1.0.0) tab).
+1. Click the green **Download for Windows** button at the top of this page (or visit the [Releases](https://github.com/Juggernautcancer/RobRun-Companion/releases/download/v1.1.0/RobRun-Companion-v1.1.0-Windows.zip) tab).
 2. Download the release package from the **Assets** section and extract it into any folder on your PC.
-3. Launch `RobRunCompanion.exe` as a standard user.
+3. Launch `RobRun Companion.exe` as a standard user.
 4. Select any of the four modules from the main menu to begin your diagnostic check.
 
 ---
